@@ -13,24 +13,6 @@ This is the current version of the board under development.
 
 | led  | pin |
 | ------------- | ------------- |
-| 01  | 15  |
-| 02  | 00  |
-| 03  | 23  |
-| 04  | 16  |
-| 05  | 17  |
-| 06  | 05  |
-| 07  | 18  |
-| 08  | 19  |
-| 09  | 22  |
-| 10  | 21  |
-
-DMX uses pins 16 and 17 for RX and TX and pin 4 for direction control.
-
-## The board version 0.9 pinouts:
-Note: version 0.9 has not been widely distributed
-
-| led  | pin |
-| ------------- | ------------- |
 | 01  | 34  |
 | 02  | 39  |
 | 03  | 23  |
@@ -41,6 +23,24 @@ Note: version 0.9 has not been widely distributed
 | 08  | 05  |
 | 09  | 00  |
 | 10  | 15  |
+
+DMX uses pins 16 and 17 for RX and TX and pin 4 for direction control.
+
+## The board version 0.9 pinouts:
+Note: version 0.9 has not been widely distributed
+
+| led  | pin |
+| ------------- | ------------- |
+| 01  | 15  |
+| 02  | 00  |
+| 03  | 23  |
+| 04  | 16  |
+| 05  | 17  |
+| 06  | 05  |
+| 07  | 18  |
+| 08  | 19  |
+| 09  | 22  |
+| 10  | 21  |
 
 DMX uses pins 1 and 3 for RX and TX and pin 4 for direction control.
 
